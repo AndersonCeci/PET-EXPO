@@ -8,7 +8,7 @@
 <p>1. Clone and download</p>
 
 ```
-$ git clone [https://github.com/AndersonCeci/event-organization.git](https://github.com/AndersonCeci/PET-EXPO.git)
+$ git clone https://github.com/AndersonCeci/PET-EXPO.git
 
 ```
 
