@@ -25,13 +25,13 @@ $ npm install
 ```
 
 ```
-$ node index.js  //to start the backend
+$ nodemon index.js  //to start the backend
 
 ```
 #### If you dont have nodemon use 
 
 ```
-$ nodemon index.js  //to start the backend
+$ node index.js  //to start the backend
 
 ```
 
